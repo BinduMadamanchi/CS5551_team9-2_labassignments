@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mixed App</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="SignIn">SignIn</string>
+    <string name="Register">New User?</string>
+    <string name="user_registration">User Registration</string>
+    <string name="user_signin">User Sign In</string>
+    <string name="sign_out">SignOut</string>
+    <string name="camera">Open Camera</string>
+    <string name="maps">Open Maps</string>
+    <string name="calculator">Tourch</string>
+    <string name="api">API</string>
+    <string name="user_info">UserInfo</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="flash_light">FLashLight</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="todo">TODO</string>
+    <string name="text_view">NO Text</string>
+
+</resources>
